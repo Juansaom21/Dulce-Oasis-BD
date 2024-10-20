@@ -6,7 +6,7 @@ cod_prod int identity(1,1) not null primary key,
 nombre_prod varchar(50) not null,
 cantidad_prod int not null,
 descrip varchar(50),
-precio bigint not null,)
+precio int not null)
 
 create table ingrediente(
 cod_ingr int identity(1,1) not null primary key,
@@ -25,7 +25,7 @@ cod_factura int identity(1,1) not null primary key,
 id int not null foreign key references usuario(id),
 cod_prod int not null foreign key references producto(cod_prod),
 fecha date not null,
-total bigint not null)
+total int not null)
 
 create view inventario
 as
@@ -34,3 +34,9 @@ from ingrediente i, producto p
 
 select*
 from inventario
+
+select*
+from ingrediente
+
+select*
+from producto
