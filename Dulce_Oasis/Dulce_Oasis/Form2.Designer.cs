@@ -46,9 +46,9 @@
             // pictureBox3
             // 
             pictureBox3.Image = (Image)resources.GetObject("pictureBox3.Image");
-            pictureBox3.Location = new Point(482, 406);
+            pictureBox3.Location = new Point(417, 407);
             pictureBox3.Name = "pictureBox3";
-            pictureBox3.Size = new Size(64, 45);
+            pictureBox3.Size = new Size(45, 45);
             pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox3.TabIndex = 26;
             pictureBox3.TabStop = false;
@@ -58,33 +58,33 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Sitka Display", 26.2499962F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point);
-            label3.Location = new Point(186, 37);
+            label3.Location = new Point(192, 37);
             label3.Name = "label3";
-            label3.Size = new Size(360, 50);
+            label3.Size = new Size(228, 50);
             label3.TabIndex = 25;
-            label3.Text = "DULCE OASIS POTTER";
+            label3.Text = "DULCE OASIS";
             // 
             // txb2
             // 
-            txb2.Location = new Point(362, 412);
+            txb2.Location = new Point(221, 416);
             txb2.Name = "txb2";
             txb2.PasswordChar = '*';
-            txb2.Size = new Size(100, 23);
+            txb2.Size = new Size(187, 23);
             txb2.TabIndex = 24;
             // 
             // txb1
             // 
-            txb1.Location = new Point(134, 412);
+            txb1.Location = new Point(221, 354);
             txb1.Name = "txb1";
-            txb1.Size = new Size(100, 23);
+            txb1.Size = new Size(187, 23);
             txb1.TabIndex = 23;
             // 
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(210, 109);
+            pictureBox1.Location = new Point(192, 90);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(297, 239);
+            pictureBox1.Size = new Size(228, 239);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 22;
             pictureBox1.TabStop = false;
@@ -93,7 +93,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Sitka Display", 12F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point);
-            label2.Location = new Point(362, 390);
+            label2.Location = new Point(221, 394);
             label2.Name = "label2";
             label2.Size = new Size(108, 23);
             label2.TabIndex = 21;
@@ -103,7 +103,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Sitka Display", 12F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point);
-            label1.Location = new Point(134, 390);
+            label1.Location = new Point(221, 332);
             label1.Name = "label1";
             label1.Size = new Size(74, 23);
             label1.TabIndex = 20;
@@ -114,7 +114,7 @@
             button1.BackColor = Color.Transparent;
             button1.Font = new Font("Sitka Subheading", 12F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point);
             button1.ForeColor = SystemColors.InactiveCaptionText;
-            button1.Location = new Point(362, 487);
+            button1.Location = new Point(269, 445);
             button1.Name = "button1";
             button1.Size = new Size(100, 43);
             button1.TabIndex = 19;
@@ -125,9 +125,9 @@
             // pictureBox2
             // 
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(490, 406);
+            pictureBox2.Location = new Point(417, 407);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(56, 45);
+            pictureBox2.Size = new Size(45, 45);
             pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox2.TabIndex = 27;
             pictureBox2.TabStop = false;

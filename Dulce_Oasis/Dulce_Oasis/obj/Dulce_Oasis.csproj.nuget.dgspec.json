@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Downloads\\Dulce_Oasis\\Dulce_Oasis\\Dulce_Oasis\\Dulce_Oasis.csproj": {}
+    "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\Dulce_Oasis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Downloads\\Dulce_Oasis\\Dulce_Oasis\\Dulce_Oasis\\Dulce_Oasis.csproj": {
+    "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\Dulce_Oasis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\Dulce_Oasis\\Dulce_Oasis\\Dulce_Oasis\\Dulce_Oasis.csproj",
+        "projectUniqueName": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\Dulce_Oasis.csproj",
         "projectName": "Dulce_Oasis",
-        "projectPath": "C:\\Users\\Usuario\\Downloads\\Dulce_Oasis\\Dulce_Oasis\\Dulce_Oasis\\Dulce_Oasis.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Downloads\\Dulce_Oasis\\Dulce_Oasis\\Dulce_Oasis\\obj\\",
+        "projectPath": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\Dulce_Oasis.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -69,7 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

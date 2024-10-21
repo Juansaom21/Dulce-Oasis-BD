@@ -23,4 +23,5 @@ namespace Dulce_Oasis
             this.rol = rol;
         }
     }
+
 }
