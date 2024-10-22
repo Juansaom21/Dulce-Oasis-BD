@@ -38,6 +38,14 @@
             labelRol = new Label();
             comboBoxRol = new ComboBox();
             label1 = new Label();
+            menuStrip2 = new MenuStrip();
+            toolStripMenuItem1 = new ToolStripMenuItem();
+            toolStripMenuItem2 = new ToolStripMenuItem();
+            toolStripMenuItem3 = new ToolStripMenuItem();
+            toolStripMenuItem4 = new ToolStripMenuItem();
+            usuariosToolStripMenuItem = new ToolStripMenuItem();
+            button3 = new Button();
+            menuStrip2.SuspendLayout();
             SuspendLayout();
             // 
             // buttonRegistrar
@@ -130,12 +138,69 @@
             label1.TabIndex = 10;
             label1.Text = "USUARIOS";
             // 
+            // menuStrip2
+            // 
+            menuStrip2.BackColor = Color.MistyRose;
+            menuStrip2.Items.AddRange(new ToolStripItem[] { toolStripMenuItem1, toolStripMenuItem3 });
+            menuStrip2.Location = new Point(0, 0);
+            menuStrip2.Name = "menuStrip2";
+            menuStrip2.Size = new Size(586, 24);
+            menuStrip2.TabIndex = 26;
+            menuStrip2.Text = "menuStrip2";
+            // 
+            // toolStripMenuItem1
+            // 
+            toolStripMenuItem1.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem2 });
+            toolStripMenuItem1.Name = "toolStripMenuItem1";
+            toolStripMenuItem1.Size = new Size(54, 20);
+            toolStripMenuItem1.Text = "PERFIL";
+            // 
+            // toolStripMenuItem2
+            // 
+            toolStripMenuItem2.Name = "toolStripMenuItem2";
+            toolStripMenuItem2.Size = new Size(180, 22);
+            toolStripMenuItem2.Text = "CERRAR SESIÓN";
+            toolStripMenuItem2.Click += toolStripMenuItem2_Click;
+            // 
+            // toolStripMenuItem3
+            // 
+            toolStripMenuItem3.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem4, usuariosToolStripMenuItem });
+            toolStripMenuItem3.Name = "toolStripMenuItem3";
+            toolStripMenuItem3.Size = new Size(61, 20);
+            toolStripMenuItem3.Text = "Agregar";
+            // 
+            // toolStripMenuItem4
+            // 
+            toolStripMenuItem4.Name = "toolStripMenuItem4";
+            toolStripMenuItem4.Size = new Size(180, 22);
+            toolStripMenuItem4.Text = "Productos";
+            toolStripMenuItem4.Click += toolStripMenuItem4_Click;
+            // 
+            // usuariosToolStripMenuItem
+            // 
+            usuariosToolStripMenuItem.Name = "usuariosToolStripMenuItem";
+            usuariosToolStripMenuItem.Size = new Size(180, 22);
+            usuariosToolStripMenuItem.Text = "Usuarios";
+            usuariosToolStripMenuItem.Click += usuariosToolStripMenuItem_Click;
+            // 
+            // button3
+            // 
+            button3.Location = new Point(0, 27);
+            button3.Name = "button3";
+            button3.Size = new Size(75, 23);
+            button3.TabIndex = 27;
+            button3.Text = "Atrás";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
             // UIusuario
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.PowderBlue;
             ClientSize = new Size(586, 450);
+            Controls.Add(button3);
+            Controls.Add(menuStrip2);
             Controls.Add(label1);
             Controls.Add(comboBoxRol);
             Controls.Add(labelRol);
@@ -148,6 +213,8 @@
             Controls.Add(buttonRegistrar);
             Name = "UIusuario";
             Text = "UIusuario";
+            menuStrip2.ResumeLayout(false);
+            menuStrip2.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -164,5 +231,12 @@
         private Label labelRol;
         private ComboBox comboBoxRol;
         private Label label1;
+        private MenuStrip menuStrip2;
+        private ToolStripMenuItem toolStripMenuItem1;
+        private ToolStripMenuItem toolStripMenuItem2;
+        private ToolStripMenuItem toolStripMenuItem3;
+        private ToolStripMenuItem toolStripMenuItem4;
+        private ToolStripMenuItem usuariosToolStripMenuItem;
+        private Button button3;
     }
 }

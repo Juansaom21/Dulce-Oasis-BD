@@ -16,7 +16,7 @@ namespace Dulce_Oasis
                 int retorna = 1;
                 try
                 {
-                    string query = "Insert Into usuario (nombre, correo, contra, rol) values ('" + usuario.nombre + "', '" + usuario.correo + "','" + usuario.contra + "', " + usuario.rol + ")"; ;
+                    string query = $"Insert Into usuario (nombre, correo, contra, rol) values ('{usuario.nombre}', '{usuario.correo}', '{usuario.contra}', '{usuario.rol}');";
                     SqlCommand cmd = new SqlCommand(query, cnn);
                     retorna = cmd.ExecuteNonQuery();
 
@@ -26,8 +26,31 @@ namespace Dulce_Oasis
                 }
                 catch
                 {
-                    MessageBox.Show("Error al registrar al usuario");
+                    MessageBox.Show($"Error al registrar al usuario {usuario.rol} {usuario.nombre} {usuario.correo} {usuario.contra}");
                     return -1;
+                }
+            }
+        }
+
+        public static bool VerificarCredenciales(string nombre, string contra)
+        {
+            using (SqlConnection cnn = ConexionBD.conexion())
+            {
+                try
+                {
+                    string query = "SELECT COUNT(1) FROM usuario WHERE nombre = @nombre AND contra = @contra";
+                    SqlCommand cmd = new SqlCommand(query, cnn);
+                    cmd.Parameters.AddWithValue("@nombre", nombre);
+                    cmd.Parameters.AddWithValue("@contra", contra);
+
+                    int count = Convert.ToInt32(cmd.ExecuteScalar());
+
+                    return count > 0;
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error al verificar credenciales: " + ex.Message);
+                    return false;
                 }
             }
         }

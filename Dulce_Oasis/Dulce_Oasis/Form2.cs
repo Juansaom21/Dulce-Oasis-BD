@@ -19,12 +19,22 @@ namespace Dulce_Oasis
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (txb1.Text == "mariam" && txb2.Text == "2110")
+            // Obtenemos los datos del formulario
+            string correo = txb1.Text;
+            string contra = txb2.Text;
+
+            // Verificar si las credenciales son válidas
+            if (CRUDUsuarios.VerificarCredenciales(correo, contra))
             {
+                MessageBox.Show("Inicio de sesión exitoso.");
                 Admin ventana = new Admin();
                 ventana.Show();
 
                 this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Credenciales inválidas. Por favor, verifica tu usuario o contraseña.");
             }
 
         }

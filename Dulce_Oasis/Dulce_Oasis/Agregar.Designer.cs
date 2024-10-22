@@ -28,11 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            menuStrip1 = new MenuStrip();
-            pERFILToolStripMenuItem = new ToolStripMenuItem();
-            cERRARSESIÓNToolStripMenuItem = new ToolStripMenuItem();
-            pRODUCTOSToolStripMenuItem = new ToolStripMenuItem();
-            aGREGARToolStripMenuItem = new ToolStripMenuItem();
             textBoxnomp = new TextBox();
             textBoxcatidadp = new TextBox();
             label1 = new Label();
@@ -50,45 +45,14 @@
             button1 = new Button();
             button2 = new Button();
             button3 = new Button();
-            menuStrip1.SuspendLayout();
+            menuStrip2 = new MenuStrip();
+            toolStripMenuItem1 = new ToolStripMenuItem();
+            toolStripMenuItem2 = new ToolStripMenuItem();
+            toolStripMenuItem3 = new ToolStripMenuItem();
+            toolStripMenuItem4 = new ToolStripMenuItem();
+            usuariosToolStripMenuItem = new ToolStripMenuItem();
+            menuStrip2.SuspendLayout();
             SuspendLayout();
-            // 
-            // menuStrip1
-            // 
-            menuStrip1.BackColor = Color.MistyRose;
-            menuStrip1.Items.AddRange(new ToolStripItem[] { pERFILToolStripMenuItem, pRODUCTOSToolStripMenuItem });
-            menuStrip1.Location = new Point(0, 0);
-            menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(586, 24);
-            menuStrip1.TabIndex = 3;
-            menuStrip1.Text = "menuStrip1";
-            // 
-            // pERFILToolStripMenuItem
-            // 
-            pERFILToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { cERRARSESIÓNToolStripMenuItem });
-            pERFILToolStripMenuItem.Name = "pERFILToolStripMenuItem";
-            pERFILToolStripMenuItem.Size = new Size(54, 20);
-            pERFILToolStripMenuItem.Text = "PERFIL";
-            // 
-            // cERRARSESIÓNToolStripMenuItem
-            // 
-            cERRARSESIÓNToolStripMenuItem.Name = "cERRARSESIÓNToolStripMenuItem";
-            cERRARSESIÓNToolStripMenuItem.Size = new Size(159, 22);
-            cERRARSESIÓNToolStripMenuItem.Text = "CERRAR SESIÓN";
-            cERRARSESIÓNToolStripMenuItem.Click += cERRARSESIÓNToolStripMenuItem_Click;
-            // 
-            // pRODUCTOSToolStripMenuItem
-            // 
-            pRODUCTOSToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { aGREGARToolStripMenuItem });
-            pRODUCTOSToolStripMenuItem.Name = "pRODUCTOSToolStripMenuItem";
-            pRODUCTOSToolStripMenuItem.Size = new Size(76, 20);
-            pRODUCTOSToolStripMenuItem.Text = "ACCIONES";
-            // 
-            // aGREGARToolStripMenuItem
-            // 
-            aGREGARToolStripMenuItem.Name = "aGREGARToolStripMenuItem";
-            aGREGARToolStripMenuItem.Size = new Size(126, 22);
-            aGREGARToolStripMenuItem.Text = "AGREGAR";
             // 
             // textBoxnomp
             // 
@@ -242,12 +206,58 @@
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
+            // menuStrip2
+            // 
+            menuStrip2.BackColor = Color.MistyRose;
+            menuStrip2.Items.AddRange(new ToolStripItem[] { toolStripMenuItem1, toolStripMenuItem3 });
+            menuStrip2.Location = new Point(0, 0);
+            menuStrip2.Name = "menuStrip2";
+            menuStrip2.Size = new Size(586, 24);
+            menuStrip2.TabIndex = 25;
+            menuStrip2.Text = "menuStrip2";
+            // 
+            // toolStripMenuItem1
+            // 
+            toolStripMenuItem1.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem2 });
+            toolStripMenuItem1.Name = "toolStripMenuItem1";
+            toolStripMenuItem1.Size = new Size(54, 20);
+            toolStripMenuItem1.Text = "PERFIL";
+            // 
+            // toolStripMenuItem2
+            // 
+            toolStripMenuItem2.Name = "toolStripMenuItem2";
+            toolStripMenuItem2.Size = new Size(180, 22);
+            toolStripMenuItem2.Text = "CERRAR SESIÓN";
+            toolStripMenuItem2.Click += toolStripMenuItem2_Click;
+            // 
+            // toolStripMenuItem3
+            // 
+            toolStripMenuItem3.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem4, usuariosToolStripMenuItem });
+            toolStripMenuItem3.Name = "toolStripMenuItem3";
+            toolStripMenuItem3.Size = new Size(61, 20);
+            toolStripMenuItem3.Text = "Agregar";
+            // 
+            // toolStripMenuItem4
+            // 
+            toolStripMenuItem4.Name = "toolStripMenuItem4";
+            toolStripMenuItem4.Size = new Size(180, 22);
+            toolStripMenuItem4.Text = "Productos";
+            toolStripMenuItem4.Click += toolStripMenuItem4_Click;
+            // 
+            // usuariosToolStripMenuItem
+            // 
+            usuariosToolStripMenuItem.Name = "usuariosToolStripMenuItem";
+            usuariosToolStripMenuItem.Size = new Size(180, 22);
+            usuariosToolStripMenuItem.Text = "Usuarios";
+            usuariosToolStripMenuItem.Click += usuariosToolStripMenuItem_Click;
+            // 
             // Agregar
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.PowderBlue;
             ClientSize = new Size(586, 421);
+            Controls.Add(menuStrip2);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
@@ -265,22 +275,15 @@
             Controls.Add(label1);
             Controls.Add(textBoxcatidadp);
             Controls.Add(textBoxnomp);
-            Controls.Add(menuStrip1);
             Name = "Agregar";
             Text = "Agregar";
-            menuStrip1.ResumeLayout(false);
-            menuStrip1.PerformLayout();
+            menuStrip2.ResumeLayout(false);
+            menuStrip2.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
-
-        private MenuStrip menuStrip1;
-        private ToolStripMenuItem pERFILToolStripMenuItem;
-        private ToolStripMenuItem cERRARSESIÓNToolStripMenuItem;
-        private ToolStripMenuItem pRODUCTOSToolStripMenuItem;
-        private ToolStripMenuItem aGREGARToolStripMenuItem;
         private TextBox textBoxnomp;
         private TextBox textBoxcatidadp;
         private Label label1;
@@ -298,5 +301,11 @@
         private Button button1;
         private Button button2;
         private Button button3;
+        private MenuStrip menuStrip2;
+        private ToolStripMenuItem toolStripMenuItem1;
+        private ToolStripMenuItem toolStripMenuItem2;
+        private ToolStripMenuItem toolStripMenuItem3;
+        private ToolStripMenuItem toolStripMenuItem4;
+        private ToolStripMenuItem usuariosToolStripMenuItem;
     }
 }

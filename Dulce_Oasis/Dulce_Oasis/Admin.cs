@@ -32,5 +32,13 @@ namespace Dulce_Oasis
 
             this.Hide();
         }
+
+        private void usuariosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            UIusuario ventana = new UIusuario();
+            ventana.Show();
+
+            this.Hide();
+        }
     }
 }

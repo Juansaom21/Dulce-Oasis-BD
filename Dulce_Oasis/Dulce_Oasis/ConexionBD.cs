@@ -11,7 +11,7 @@ namespace Dulce_Oasis
     {
         public static SqlConnection conexion()
         {
-            SqlConnection cnx = new SqlConnection("Data Source=LAPTOP-COPQDK2B\\SQLEXPRESS01;Initial Catalog=Dulce_Oasis;Integrated Security=true; TrustServerCertificate=true;");
+            SqlConnection cnx = new SqlConnection("Data Source=DESKTOP-VDP9H49\\SQLEXPRESS;Initial Catalog=Dulce_Oasis;Integrated Security=true; TrustServerCertificate=true;");
             cnx.Open();
             return cnx;
         }

@@ -27,13 +27,24 @@ cod_prod int not null foreign key references producto(cod_prod),
 fecha date not null,
 total int not null)
 
+-- Insert an admin user
+insert into
+  usuario (nombre, correo, contra, rol)
+values
+  (
+    'mariam',
+    'admin@example.com',
+    '2110',
+    'admin'
+  );
+
 create view inventario
 as
 select i.*, p.*
 from ingrediente i, producto p
 
 select*
-from inventario
+from usuario
 
 select*
 from ingrediente

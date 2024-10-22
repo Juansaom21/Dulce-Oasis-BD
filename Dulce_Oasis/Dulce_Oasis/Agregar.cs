@@ -20,22 +20,6 @@ namespace Dulce_Oasis
             InitializeComponent();
         }
 
-        private void cERRARSESIÓNToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Form2 ventana = new Form2();
-            ventana.Show();
-
-            this.Close();
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            Admin ventana = new Admin();
-            ventana.Show();
-
-            this.Hide();
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             producto.nombre_prod = textBoxnomp.Text;
@@ -52,6 +36,38 @@ namespace Dulce_Oasis
             ingredientes.cantidad_ingr = int.Parse(textBoxcantidadi.Text);
 
             CRUDingredientes.Agregaringredientes(ingredientes);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Admin ventana = new Admin();
+            ventana.Show();
+
+            this.Hide();
+        }
+
+        private void toolStripMenuItem4_Click(object sender, EventArgs e)
+        {
+            Agregar ventana = new Agregar();
+            ventana.Show();
+
+            this.Hide();
+        }
+
+        private void usuariosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            UIusuario ventana = new UIusuario();
+            ventana.Show();
+
+            this.Hide();
+        }
+
+        private void toolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            Form2 ventana = new Form2();
+            ventana.Show();
+
+            this.Close();
         }
     }
 }

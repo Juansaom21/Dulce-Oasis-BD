@@ -35,6 +35,7 @@
             cERRARSESIÓNToolStripMenuItem = new ToolStripMenuItem();
             pRODUCTOSToolStripMenuItem = new ToolStripMenuItem();
             aGREGARToolStripMenuItem = new ToolStripMenuItem();
+            usuariosToolStripMenuItem = new ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             menuStrip1.SuspendLayout();
             SuspendLayout();
@@ -84,17 +85,24 @@
             // 
             // pRODUCTOSToolStripMenuItem
             // 
-            pRODUCTOSToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { aGREGARToolStripMenuItem });
+            pRODUCTOSToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { aGREGARToolStripMenuItem, usuariosToolStripMenuItem });
             pRODUCTOSToolStripMenuItem.Name = "pRODUCTOSToolStripMenuItem";
-            pRODUCTOSToolStripMenuItem.Size = new Size(76, 20);
-            pRODUCTOSToolStripMenuItem.Text = "ACCIONES";
+            pRODUCTOSToolStripMenuItem.Size = new Size(61, 20);
+            pRODUCTOSToolStripMenuItem.Text = "Agregar";
             // 
             // aGREGARToolStripMenuItem
             // 
             aGREGARToolStripMenuItem.Name = "aGREGARToolStripMenuItem";
             aGREGARToolStripMenuItem.Size = new Size(180, 22);
-            aGREGARToolStripMenuItem.Text = "AGREGAR";
+            aGREGARToolStripMenuItem.Text = "Productos";
             aGREGARToolStripMenuItem.Click += aGREGARToolStripMenuItem_Click;
+            // 
+            // usuariosToolStripMenuItem
+            // 
+            usuariosToolStripMenuItem.Name = "usuariosToolStripMenuItem";
+            usuariosToolStripMenuItem.Size = new Size(180, 22);
+            usuariosToolStripMenuItem.Text = "Usuarios";
+            usuariosToolStripMenuItem.Click += usuariosToolStripMenuItem_Click;
             // 
             // Admin
             // 
@@ -123,5 +131,6 @@
         private ToolStripMenuItem cERRARSESIÓNToolStripMenuItem;
         private ToolStripMenuItem pRODUCTOSToolStripMenuItem;
         private ToolStripMenuItem aGREGARToolStripMenuItem;
+        private ToolStripMenuItem usuariosToolStripMenuItem;
     }
 }
