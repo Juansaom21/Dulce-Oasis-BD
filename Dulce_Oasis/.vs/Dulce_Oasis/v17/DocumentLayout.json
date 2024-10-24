@@ -3,31 +3,39 @@
   "WorkspaceRootPath": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|d:\\002_pascual\\005_semestre\\is\\dulce-oasis-bd\\dulce_oasis\\dulce_oasis\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|solutionrelative:dulce_oasis\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|d:\\002_pascual\\005_semestre\\is\\dulce-oasis-bd\\dulce_oasis\\dulce_oasis\\crudusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|solutionrelative:dulce_oasis\\crudusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|d:\\002_pascual\\005_semestre\\is\\dulce-oasis-bd\\dulce_oasis\\dulce_oasis\\uiusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|solutionrelative:dulce_oasis\\uiusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\dulce_oasis\\uiusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|solutionrelative:dulce_oasis\\uiusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|d:\\002_pascual\\005_semestre\\is\\dulce-oasis-bd\\dulce_oasis\\dulce_oasis\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|solutionrelative:dulce_oasis\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|d:\\002_pascual\\005_semestre\\is\\dulce-oasis-bd\\dulce_oasis\\dulce_oasis\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|solutionrelative:dulce_oasis\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|d:\\002_pascual\\005_semestre\\is\\dulce-oasis-bd\\dulce_oasis\\dulce_oasis\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|solutionrelative:dulce_oasis\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|d:\\002_pascual\\005_semestre\\is\\dulce-oasis-bd\\dulce_oasis\\dulce_oasis\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|solutionrelative:dulce_oasis\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|d:\\002_pascual\\005_semestre\\is\\dulce-oasis-bd\\dulce_oasis\\dulce_oasis\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|d:\\002_pascual\\005_semestre\\is\\dulce-oasis-bd\\dulce_oasis\\dulce_oasis\\uiusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|solutionrelative:dulce_oasis\\uiusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\dulce_oasis\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|solutionrelative:dulce_oasis\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\dulce_oasis\\uiusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|solutionrelative:dulce_oasis\\uiusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|d:\\002_pascual\\005_semestre\\is\\dulce-oasis-bd\\dulce_oasis\\dulce_oasis\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|solutionrelative:dulce_oasis\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\dulce_oasis\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FB8618F0-E2D1-4452-B668-F348B5D587AC}|Dulce_Oasis\\Dulce_Oasis.csproj|solutionrelative:dulce_oasis\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +54,58 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\Form2.cs",
+              "RelativeDocumentMoniker": "Dulce_Oasis\\Form2.cs",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\Form2.cs",
+              "RelativeToolTip": "Dulce_Oasis\\Form2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:21:57.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\Form2.cs",
+              "RelativeDocumentMoniker": "Dulce_Oasis\\Form2.cs",
+              "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Dulce_Oasis\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:21:54.91Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CRUDUsuarios.cs",
               "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\CRUDUsuarios.cs",
               "RelativeDocumentMoniker": "Dulce_Oasis\\CRUDUsuarios.cs",
               "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\CRUDUsuarios.cs",
               "RelativeToolTip": "Dulce_Oasis\\CRUDUsuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAIAwwCIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T15:52:57.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UIusuario.cs",
               "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\UIusuario.cs",
               "RelativeDocumentMoniker": "Dulce_Oasis\\UIusuario.cs",
               "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\UIusuario.cs",
               "RelativeToolTip": "Dulce_Oasis\\UIusuario.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T15:46:34.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Agregar.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\Agregar.cs",
               "RelativeDocumentMoniker": "Dulce_Oasis\\Agregar.cs",
@@ -84,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Agregar.cs",
               "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\Agregar.cs",
               "RelativeDocumentMoniker": "Dulce_Oasis\\Agregar.cs",
@@ -92,24 +125,22 @@
               "RelativeToolTip": "Dulce_Oasis\\Agregar.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAwwEYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T15:38:14.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T15:38:14.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UIusuario.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\UIusuario.cs",
               "RelativeDocumentMoniker": "Dulce_Oasis\\UIusuario.cs",
               "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\UIusuario.cs [Dise\u00F1o]",
               "RelativeToolTip": "Dulce_Oasis\\UIusuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T21:22:35.397Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-21T21:22:35.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Admin.cs",
               "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\Admin.cs",
               "RelativeDocumentMoniker": "Dulce_Oasis\\Admin.cs",
@@ -122,15 +153,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Admin.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\Admin.cs",
               "RelativeDocumentMoniker": "Dulce_Oasis\\Admin.cs",
               "ToolTip": "D:\\002_PASCUAL\\005_SEMESTRE\\IS\\Dulce-Oasis-BD\\Dulce_Oasis\\Dulce_Oasis\\Admin.cs [Dise\u00F1o]",
               "RelativeToolTip": "Dulce_Oasis\\Admin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T15:34:09.651Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-22T15:34:09.651Z"
             }
           ]
         }

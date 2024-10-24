@@ -26,7 +26,7 @@ namespace Dulce_Oasis
                 }
                 catch
                 {
-                    MessageBox.Show($"Error al registrar al usuario {usuario.rol} {usuario.nombre} {usuario.correo} {usuario.contra}");
+                    MessageBox.Show($"Error al registrar al usuario {usuario.nombre}");
                     return -1;
                 }
             }
