@@ -1,0 +1,104 @@
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\PF_Heladeria.Admin.resources
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.Agregar.resources
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.Form2.resources
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.exe
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.deps.json
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.runtimeconfig.json
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.dll
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.pdb
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.dll
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\refint\Dulce_Oasis.dll
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.pdb
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\ref\Dulce_Oasis.dll
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.exe
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.deps.json
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.runtimeconfig.json
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.dll
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.pdb
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.Admin.resources
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.Agregar.resources
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.Form2.resources
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.dll
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\refint\Dulce_Oasis.dll
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.pdb
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\ref\Dulce_Oasis.dll
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Dulce_Oasis\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.csproj.CopyComplete
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.exe
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.deps.json
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.runtimeconfig.json
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.dll
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.pdb
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.csproj.AssemblyReference.cache
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.Admin.resources
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.Agregar.resources
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.Form2.resources
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.UIusuario.resources
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.csproj.GenerateResource.cache
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.GeneratedMSBuildEditorConfig.editorconfig
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.AssemblyInfoInputs.cache
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.AssemblyInfo.cs
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.csproj.CoreCompileInputs.cache
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.sourcelink.json
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oa.F7C4A6EE.Up2Date
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.dll
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\refint\Dulce_Oasis.dll
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.pdb
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.genruntimeconfig.cache
+D:\002_PASCUAL\005_SEMESTRE\IS\Dulce-Oasis-BD\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\ref\Dulce_Oasis.dll
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.csproj.AssemblyReference.cache
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.dll
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\refint\Dulce_Oasis.dll
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.pdb
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.exe
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.deps.json
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.runtimeconfig.json
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.dll
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\Dulce_Oasis.pdb
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.Admin.resources
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.AgregarIngredientes.resources
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.AgregarProductos.resources
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.Form2.resources
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.UIusuario.resources
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.Venta.resources
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.csproj.GenerateResource.cache
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.AssemblyInfoInputs.cache
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.AssemblyInfo.cs
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.csproj.CoreCompileInputs.cache
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oa.F7C4A6EE.Up2Date
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.genruntimeconfig.cache
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\ref\Dulce_Oasis.dll
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.VerProductocs.resources
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.VerIngredientes.resources
+C:\Users\Juan Miguel\Downloads\Proyectos Visual Studio\Dulce_Oasis\Dulce_Oasis\obj\Debug\net6.0-windows\Dulce_Oasis.VerUsuarios.resources
